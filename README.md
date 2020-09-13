@@ -30,7 +30,7 @@ Este parche al español y su respectivo mod, no está afiliado a Team Savalto ni
 
 * La instalación del mod y su parche es asumido bajo su propio riesgo. No me hago responsable de cualquier daño, directo o indirecto ocasionado por su instalación, uso o presencia en su equipo.
 
-# Redes Sociales del equipo.
+# Redes Sociales del equipo
 
 [SadlyThresh](https://twitter.com/sadlythresh)
 
