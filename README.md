@@ -6,7 +6,7 @@ Bienvenido al proyecto al español del mod Blue Skies, para Doki Doki Literature
 
 * Descarga e instala el mod de Blue Skies, desde su página oficial, en este [link](https://blueskiesmod.com/), sustituyendo el archivo «scripts.rpa» dentro de la carpeta «game».
 
-* Descarga la última versión del parche al español desde este [link](https://github.com/SadlyThresh/DDBS_ESP/releases) y copia y pega la carpeta «game» dentro de la carpeta del juego.
+* Descarga la última versión del parche al español desde este [link](https://github.com/SadlyThresh/DDBS_ESP/releases) y copia y pega el contenido del archivo dentro de la carpeta del juego.
 
 # ¿Dónde encuentro los archivos del juego con Steam?
 * En tu biblioteca de juegos, haz click derecho sobre el juego de Doki Doki Literature Club y selecciona «Propiedades».
