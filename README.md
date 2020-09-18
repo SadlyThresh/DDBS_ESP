@@ -40,4 +40,8 @@ Este parche al español y su respectivo mod, no está afiliado a Team Savalto ni
 
 [DarkMrMewtho](https://twitter.com/MewthoYT)
 
+# Únete a nuestro Discord
+
+Si quieres formar parte del servidor en Español de Blue Skies, con gente de ideas afines y tener la oportunidad de conocer más de los traductores, ¡Puedes unirte, sólo haz click en este [link](https://discord.gg/tYR6NDu)!
+
 
