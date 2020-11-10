@@ -22,7 +22,7 @@ Haz click en este [link](https://github.com/SadlyThresh/DDBS_ESP/blob/master/Bug
 
 # Aviso Legal
 
-Este parche al español y su respectivo mod, no está afiliado a Team Savalto ni a ninguna entidad asociada a ellos. Este es un parche gratuito, por lo que puede ser distribuido libremente, siempre y cuando se cumplan las siguientes condiciones: 
+Este parche al español y su respectivo mod, no está afiliado a Team Salvato ni a ninguna entidad asociada a ellos. Este es un parche gratuito, por lo que puede ser distribuido libremente, siempre y cuando se cumplan las siguientes condiciones: 
 
 * Este parche es gratuito y puede ser distribuido libremente en cualquier plataforma, siempre y cuando se le de los respectivos créditos a su autor y/o personas envueltas en el proyecto.
 
