@@ -1,10 +1,10 @@
-![SadlyThresh](https://github.com/SadlyThresh/DDBS_ESP/raw/master/images/top.png)
+![SadlyThresh](https://github.com/SadlyThresh/DDBS_ESP/raw/master/images/newtop.png)
 # Información
 Bienvenido al proyecto al español del mod Blue Skies, para Doki Doki Literature Club. 
 # ¿Cómo instalo la traducción? 
 * Primero debes instalar los archivos del DDLC en tu computador, ya sea desde Steam o desde la [página oficial](https://ddlc.moe/).
 
-* Descarga e instala el mod de Blue Skies, desde su página oficial, en este [link](https://blueskiesmod.com/), sustituyendo el archivo «scripts.rpa» dentro de la carpeta «game» y borrando el archivo "firstrun" si se encuentra presente.
+* Descarga e instala el mod de Blue Skies, desde este [link](https://github.com/SadlyThresh/DDBS_ESP/releases), sustituyendo el archivo «scripts.rpa» dentro de la carpeta «game» y borrando el archivo "firstrun" si se encuentra presente.
 
 * Descarga la última versión del parche al español desde este [link](https://github.com/SadlyThresh/DDBS_ESP/releases) y copia y pega el contenido del archivo dentro de la carpeta del juego.
 
@@ -28,7 +28,7 @@ Este parche al español y su respectivo mod, no está afiliado a Team Salvato ni
 
 * Al ser gratuito, está totalmente prohibido la remuneración de dinero por su distribución.
 
-* La instalación del mod y su parche es asumido bajo su propio riesgo. No me hago responsable de cualquier daño, directo o indirecto ocasionado por su instalación, uso o presencia en su equipo.
+* La instalación del mod y su parche es asumido bajo su propio riesgo. No nos hacemos responsable de cualquier daño, directo o indirecto ocasionado por su instalación, uso o presencia en su equipo.
 
 # Redes Sociales del equipo
 
@@ -42,6 +42,6 @@ Este parche al español y su respectivo mod, no está afiliado a Team Salvato ni
 
 # Únete a nuestro Discord
 
-¿Quieres formar parte del servidor en Español de Blue Skies, con gente de ideas afines y tener la oportunidad de conocer más de los traductores? ¡Puedes unirte, sólo haz click en este [link](https://discord.gg/k7t26yW8Bx)!
+¿Quieres formar parte del servidor en Español de Blue Skies, con gente de ideas afines y tener la oportunidad de conocer más de los traductores? ¡Puedes unirte, sólo haz click en este [link](https://discord.gg/qRSuTBxu3H)!
 
 
