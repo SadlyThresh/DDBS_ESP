@@ -30,16 +30,6 @@ Este parche al español y su respectivo mod, no está afiliado a Team Salvato ni
 
 * La instalación del mod y su parche es asumido bajo su propio riesgo. No nos hacemos responsable de cualquier daño, directo o indirecto ocasionado por su instalación, uso o presencia en su equipo.
 
-# Redes Sociales del equipo
-
-[SadlyThresh](https://twitter.com/sadlythresh)
-
-[Papu](https://www.youtube.com/channel/UC-3B0xtrowh8Oyh8VHA6Ziw)
-
-[Martin H](https://twitter.com/MartinH52149286)
-
-[DarkMrMewtho](https://twitter.com/MewthoYT)
-
 # Únete a nuestro Discord
 
 ¿Quieres formar parte del servidor en Español de Blue Skies, con gente de ideas afines y tener la oportunidad de conocer más de los traductores? ¡Puedes unirte, sólo haz click en este [link](https://discord.gg/qRSuTBxu3H)!
